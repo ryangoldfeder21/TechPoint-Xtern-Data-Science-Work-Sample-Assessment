@@ -1,4 +1,4 @@
-# TechPoint Xtern Data Science Work Sample Assessment
+# Ryan Goldfeder - TechPoint Xtern Data Science Work Sample Assessment
 
 TO VIEW JUPYTER NOTEBOOK WITH MAPS, CLICK HERE: https://nbviewer.org/github/ryangoldfeder21/TechPoint-Xtern-Data-Science-Work-Sample-Assessment/blob/main/Ryan_Goldfeder_Techpoint_Xtern_Work_Sample_Data_Science.ipynb
  

@@ -1,6 +1,6 @@
 # TechPoint Xtern Data Science Work Sample Assessment
 
-** TO VIEW JUPYTER NOTEBOOK WITH MAPS, CLICK HERE: https://nbviewer.org/github/ryangoldfeder21/TechPoint-Xtern-Data-Science-Work-Sample-Assessment/blob/main/Ryan_Goldfeder_Techpoint_Xtern_Work_Sample_Data_Science.ipynb**
+TO VIEW JUPYTER NOTEBOOK WITH MAPS, CLICK HERE: https://nbviewer.org/github/ryangoldfeder21/TechPoint-Xtern-Data-Science-Work-Sample-Assessment/blob/main/Ryan_Goldfeder_Techpoint_Xtern_Work_Sample_Data_Science.ipynb
  
 For the Techpoint Xtern data science work sample assessment, I was tasked with using an Open Source API to find information about food trucks in Indianapolis, creating a weekend travel plan to visit some of those food trucks, and designing a map to illustrate the weekend travel plan. Throughout this project, I used various tools, including Google Maps API, Yelp API, and the python map library Folium. Overall, I was successfully able to create a dataframe with food truck data, a dataframe with the weekend plan, and two maps with the Saturday and Sunday travel routes. Below, I will list each of the seven steps I took to complete this project, and include descriptions of my thinking and process.
 
